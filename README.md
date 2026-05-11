@@ -1,4 +1,4 @@
-# SL Viewer Builder
+# SL Viewer Builder a feasibility study
 
 Moderne Python-Desktop-Anwendung zum Konfigurieren und Bauen von Second-Life-basierten Viewern.
 
